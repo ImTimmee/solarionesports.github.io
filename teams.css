@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+}
+
+div.navi {
+    background-color: black;
+    text-align: center;
+    position: sticky;
+}
+
+ol {
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-decoration: none;
+    padding-bottom: 10px;
+} 
+
+#line {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+.intro {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 100%;
+    height: 250px;
+}
+
+.minecraft {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+.fortnite {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+.csgo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+.rocketl {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    width: 100%;
+}

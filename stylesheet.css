@@ -1,0 +1,140 @@
+body {
+    background-color: black;
+}
+
+div.navi {
+    background-color: black;
+    text-align: center;
+    position: sticky;
+}
+
+ol {
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-decoration: none;
+    padding-bottom: 10px;
+} 
+
+#line {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+.news {
+    background-color: black;
+    box-shadow: 0px 20px 0px 0px grey;
+}
+
+.news1 {
+    width: 400px;
+    height: 200px;
+    background-color: grey;
+    border-color: black;
+    box-shadow: 0px 20px 0px 0px black;
+    border-radius: 10px;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.news2 {
+    width: 400px;
+    height: 200px;
+    background-color: grey;
+    border-color: black;
+    box-shadow: 0px 20px 0px 0px black;
+    border-radius: 10px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.news3 {
+    width: 400px;
+    height: 200px;
+    background-color: grey;
+    border-color: black;
+    box-shadow: 0px 20px 0px 0px black;
+    border-radius: 10px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sponsor {
+    margin-top: 30px;
+    background-color: black;
+    width: 100%;
+    height: 500px;
+}
+
+
+#sponsortitle {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+#saturn {
+    margin: auto;
+    justify-content: center;
+    margin-bottom: 199px;
+    left: 40vw;
+    right: 5vw;
+    position: absolute;
+}
+
+#gadgeth {
+    margin: auto;
+    justify-content: center;
+    margin-bottom: 199px;
+    left: 5vw;
+    right: 40vw;
+    position: absolute;
+}
+
+
+#sponsorbutton{
+    color: white;
+    background-color: grey;
+    border-radius: 10px;
+    font-size: 15px;
+    box-shadow: 0px 20px 0px 0px black;
+    position: absolute;
+    left: 40vw;
+    right: 40vw;
+}
+
+.shop {
+    background: linear-gradient(#d33a3a, #1c28ac);
+    height: 500px;
+    width: 100%;
+    word-wrap: break-word;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: white;
+}
+
+#shoptitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    float: left;
+}
+
+#shopdesc {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    float: left;
+}
+
+#shopbutton {
+    margin-top: 200px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: grey;
+    color: white;
+    left: 70vw;
+    right: 10vw;
+}
